@@ -34,3 +34,15 @@ Understanding the distinction between AI models and AI tools is fundamental to I
 ## 📚 Credits & Acknowledgments
 * **Primary Source:** *Maximize Productivity With AI Tools* by Coursera.
 * **Documentation Support:** Conceptual structures synthesized using NotebookLM.
+
+---
+## 🧠 Part 2: Architectures of Intelligence
+This section explores the spectrum of AI logic, from rigid human-coded rules to adaptive machine learning models.
+
+### The Learning Spectrum
+* **Rule-Based AI:** Hard-coded logic (If-This-Then-That). 100% human control.
+* **Supervised Learning:** Learning from labeled examples (The "Cat" analogy).
+* **Unsupervised Learning:** Discovering hidden patterns in raw/unlabeled data.
+* **Reinforcement Learning:** Optimization via trial, error, and feedback loops.
+
+**Key Insight:** Modern Generative AI is a hybrid, combining Unsupervised pre-training with Reinforcement Learning (RLHF) for safety and preference.
